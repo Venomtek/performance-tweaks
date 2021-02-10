@@ -7,11 +7,11 @@ msg() {
 }
 
 post_install() {
-
+	echo "CAN'T BE BLANK"
 }
 
 post_upgrade() {
-
+	echo "CAN'T BE BLANK"
 }
 
 # vim: ts=2 sw=2 et:
